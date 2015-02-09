@@ -1,0 +1,27 @@
+{
+  "name": "ngx-form",
+  "version": "0.0.0",
+  "authors": [
+    "Steven Peh <steven.peh@macquarie.com>"
+  ],
+  "description": "Angular Form Generator",
+  "main": "ngx-form.js",
+  "keywords": [
+    "ngx-form",
+    "ngxForm"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.3.0",
+    "angular-route": "~1.3.0",
+    "handlebars": "~2.0.0",
+    "underscore.string": "~3.0.0"
+  }
+}
